@@ -43,3 +43,10 @@ o	ARM CORTEX M0, ARM CORTEX M0+, ARM CORTEX M1, ARM CORTEX M3, ARM CORTEX M4
 
 
 The processor has Harvard Architecture, which means it has separate instruction bus and data bus. This allows instruction and data access take place at the same time which results in higher performance.
+
+## Output:
+Thus a LED is interfaced with ARM LPC1768 microprocessor and its blinking was verified successfully.
+<img width="1919" height="1079" alt="501349745-480bd178-6f11-42df-9b34-d930099b313f" src="https://github.com/user-attachments/assets/e6be618d-79c6-43d1-acc0-13761d0d4a83" />
+
+## Result:
+Thus a LED is interfaced with ARM LPC1768 microprocessor and its blinking was verified successfully.
